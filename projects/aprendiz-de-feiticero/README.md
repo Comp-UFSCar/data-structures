@@ -1,10 +1,6 @@
 # O Aprendiz de Feiticeiro
 
-Grupo:
-
-* Joao Vitor Brandao Moreira
-* Lucas Oliveira David
-* Thiago Faria Nogueira
+Autores: Joao Vitor Brandao Moreira, Lucas Oliveira David e Thiago Faria Nogueira.
 
 O objetivo deste trabalho é implementar uma aplicação para alguma(s) das estruturas
 estudadas anteriormente, além, obviamente, de identificar qual delas seria a melhor
@@ -15,6 +11,8 @@ em erro.
 Reaproveitamos o TAD “lista duplamente encadeada com Header” criada para o trabalho 2.
 Já que este havia sido implementado através do conceito de Template, foi simples utilizá-lo
 para criar listas de CommandSpells, objetos essenciais para o nosso jogo.
+
+![Screenshot 1](https://github.com/Comp-UFSCar/data-structures/blob/master/projects/aprendiz-de-feiticero/screenshots/1.png)
 
 ## Estrategia de Implementacao
 
