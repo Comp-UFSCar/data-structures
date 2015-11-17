@@ -36,3 +36,11 @@ tornou o desenvolvimento do jogo mais fácil, uma vez que, após concluído, pud
 concentrar em desenvolver as regras do jogo, além de abrir a possibilidade de também ser
 utilizado em implementações futuras. Por fim, observamos a dificuldade de implementação que a
 linguagem C++ impõe, em relação ao JAVA e ao C#.
+
+## Screenshots
+
+![Screenshot 1](https://github.com/Comp-UFSCar/data-structures/blob/master/projects/flower-garden/screenshots/1.png)
+![Screenshot 2](https://github.com/Comp-UFSCar/data-structures/blob/master/projects/flower-garden/screenshots/2.png)
+![Screenshot 3](https://github.com/Comp-UFSCar/data-structures/blob/master/projects/flower-garden/screenshots/3.png)
+
+
